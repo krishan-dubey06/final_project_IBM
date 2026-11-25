@@ -1,6 +1,6 @@
 # FinIndex RAG — Vectorless Personal Finance Assistant
 
-A full-stack AI chat interface for personal finance guidance, powered by **grok-3** and a corpus of **28 personal finance books** using hierarchical PageIndex-style retrieval (no vector embeddings).
+A full-stack AI chat interface for personal finance guidance, powered by **gemini-3** and a corpus of **28 personal finance books** using hierarchical PageIndex-style retrieval (no vector embeddings).
 
 ## Architecture
 
